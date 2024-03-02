@@ -1,4 +1,4 @@
-# cloudrecon
+# Cloud Recon
 This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider. It is useful for subdomain enumeration and finding additional apex domains during your reconnaissance processes.
 ## Installation
 ```bash
