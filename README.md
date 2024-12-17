@@ -2,7 +2,7 @@
 This script is used to search for cloud certificate entities such as Amazon, Azure, and others that have been extracted by the kaeferjaeger.gay provider. It is useful for subdomain enumeration and finding additional apex domains during your reconnaissance processes.
 ## Installation
 ```bash
-git clone https://github.com/0xSpidey/cloudrecon.git
+git clone https://github.com/Spix0r/cloudrecon.git
 cd cloudrecon
 chmod +x main.sh
 ```
