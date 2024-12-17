@@ -121,7 +121,7 @@ displayBanner(){
     echo -e "${PURPLE}  / ___/ /__  __ _____/ / / _ \___ _______  ___ " >&2
     echo -e "${PURPLE} / /__/ / _ \/ // / _  / / , _/ -_) __/ _ \/ _ \\" >&2
     echo -e "${PURPLE} \___/_/\___/\_,_/\_,_/ /_/|_|\__/\__/\___/_//_/" >&2
-    echo -e "                            ${GREEN}github.com/0xSpidey${RESET}" >&2
+    echo -e "                            ${GREEN}github.com/Spix0r${RESET}" >&2
     fi
 }
 
